@@ -10,7 +10,6 @@ void main() {
 class App {
   var textarea = querySelector('#txt-area') as TextAreaElement;
   var errorParagraph = querySelector('.error-msg') as ParagraphElement;
-  String? errorMessage;
 
   App() {
     run();
