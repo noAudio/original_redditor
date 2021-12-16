@@ -7,5 +7,7 @@ List<String> comments = [
   '*Sigh* unzips',
   'Step one: be attractive. Step two: don\'t be unattractive',
   'r/whoosh',
-  'F',
+  'RIP inbox',
 ];
+
+List<int> numberOfComments = [12, 3, 7, 15, 22, 42, 2, 19, 8];
